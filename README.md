@@ -18,6 +18,8 @@
 技术栈
 Vue + Vuex + Vue-router + Webpack + ES6 + Axios + Less + ElemenUI
 
+![image](https://github.com/webaby/music/blob/master/player.png)
+
 ## Build Setup
 
 ``` bash
